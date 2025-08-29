@@ -71,7 +71,6 @@ public class demo5 {
         g.sayHello();
     }
 }
-
     
 4. Abstract + Anonymous Inner Class
     - When you have an abstract class, you can create an anonymous subclass on the spot 
